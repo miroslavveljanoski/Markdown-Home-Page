@@ -2,7 +2,7 @@
 
 ### Personal information
 
-Hi everybody. My name is Miroslav, but you can call me Miki :blush:. I’m 31 years old and I’m coming from North Macedonia sunny. At the beginning of this year my wife and moved here to Belgium. We live in Aalst currently.
+Hi everybody. My name is **Miroslav**, but you can call me _Miki_ :blush:. I’m 31 years old and I’m coming from **North Macedonia** :sunny:. At the beginning of this year my wife and moved here to _Belgium_. We live in _Aalst_ currently.
 
 - Sex: Male
 - Date of birth: 24.01.1989
@@ -10,7 +10,7 @@ Hi everybody. My name is Miroslav, but you can call me Miki :blush:. I’m 31 ye
 
 In order to make a change in my career and fulfill my dream, this this year I have started with the coding school [Hack Your Future](https://hackyourfuture.be/).
 
-With their curriculum you can learn:
+With their curriculum you can _learn_:
 
 1. HTML
 2. CSS
@@ -48,6 +48,7 @@ With their curriculum you can learn:
 ### Education
 
 > Bachelor's degree in Economics
+
 > Ss. Cyril and Methodius University, Faculty of Economics, Skopje, North Macedonia
 
 ### Language skills
